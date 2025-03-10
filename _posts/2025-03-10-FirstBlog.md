@@ -10,8 +10,11 @@ tags:
     - 写作
     - 博客
 ---
->hey, this is my first blog.
 # 我的第一篇博客
+
+> 这是我的第一篇博客，我将在这里记录我的学习笔记，技术分享，生活随记，问题记录等。
+>hey, this is my first blog.
+
 
 ## 博客撰写语法
 
