@@ -4,7 +4,7 @@ title:      我的第一篇博客
 subtitle:   博客撰写指南
 date:       2025-3-10
 author:     程彤
-header-img: img/post-bg-desk.jpg
+header-img: img/home-bg-sylus-with-me.png
 catalog: 	 true
 tags:
     - 写作
